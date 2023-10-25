@@ -1,0 +1,22 @@
+- name: Bocheng Zhang<br/>（张博成）
+  photo: headshot.jpg
+  info: Ph.D. Student in Economics, University of Washington
+  email: zhan0908@uw.edu
+  github: https://github.com/
+  researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=k5pnHasAAAAJ
+  cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(2021-present) Ph.D. Economics, University of Washington"
+  education2: "(2021-2023) M.A. Economics, University of Washington"
+  education3: "(2017-2020) B.S. Economics, University of Minnesota"
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (present) Ph.D. Economics, UW
+  education2short: (2023) B.S. Economics, UW
+  education3short: (2020) B.S. Economics, UMN
+  # education4short: 
+  # education5short: 
+  # education6short: 
