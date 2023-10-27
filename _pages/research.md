@@ -53,9 +53,9 @@ Example description
 
 <div class="jumbotron">
 #### Research in Progress
-##### No paper, only titles, but you can think that I am working on something
+- No paper, only titles, but you can think that I am working on something
 {% bibliography --query @idea %}
-##### Papers exist but not done yet
+- Papers exist but not done yet
 {% bibliography --query @unpublished %}
 </div>
 
