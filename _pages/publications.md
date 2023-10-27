@@ -18,6 +18,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021,2022,2023]
 
 <div class="jumbotron">
 ### Working in Progress
+{% bibliography --query @idea %}
 {% bibliography --query @unpublished %}
 </div>
 

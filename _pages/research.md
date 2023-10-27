@@ -31,7 +31,7 @@ iframe {
 </style>
 
 ## Research
-
+Demand side of Education
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Example Research</h4>
@@ -53,6 +53,7 @@ Example description
 
 <div class="jumbotron">
 #### Working in Progress
+{% bibliography --query @idea %}
 {% bibliography --query @unpublished %}
 </div>
 
